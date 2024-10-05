@@ -14,7 +14,7 @@ Previously, I finished my undergraduate studies at the Southern University of Sc
 
 My CV is here: [Zhi Zheng's Curriculum Vitae](../assets/CV_Zhi_Zheng.pdf).
 
-[Email](zhi.zheng@u.nus.edu)/ [Google Schloar Profile](https://scholar.google.com/citations?user=nxJ4qM4AAAAJ&hl=en) / [Github]([https://github.com/QiuDi233](https://github.com/zz1358m))
+Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/citations?user=nxJ4qM4AAAAJ&hl=en) / [Github](https://github.com/zz1358m)
 
 ## Publications:
 
