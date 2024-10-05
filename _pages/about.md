@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I am a first-year Ph.D. student from [School of Computing]([https://eecs.pku.edu.cn/](https://www.comp.nus.edu.sg/)), [National University of Singapore]([https://www.pku.edu.cn/](https://nus.edu.sg/)). My research interests include AI for Application, Neural combinatorial Optimization, and Machine Learning. 
 
