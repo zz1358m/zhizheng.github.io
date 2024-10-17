@@ -8,9 +8,9 @@ redirect_from:
 
 ---
 
-I am a first-year Ph.D. student from [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/). My research interests include AI for Application, Neural combinatorial Optimization, and Machine Learning. 
+I am a first-year Ph.D. student from [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), advised by [Prof. Lee Wee Sun](https://www.comp.nus.edu.sg/cs/people/leews/). My research interests include Trustworthy LLM, LLM for Application, and AI for Application. 
 
-Previously, I finished my undergraduate studies at the Southern University of Science and Technology, China, and was honored to be advised by [Prof. Zhenkun Wang](https://scholar.google.com/citations?user=r9ezy2gAAAAJ&hl=en), [Prof. Xin Yao](https://scholar.google.com/citations?hl=en&user=UUtYPl4AAAAJ), and [Prof. Ke Tang](https://scholar.google.com/citations?user=mzLHFbAAAAAJ&hl=en).
+Previously, I finished my undergraduate studies at the Southern University of Science and Technology, China, focusing on Neural Combinatorial Optimization and Reinforcement Learning, advised by [Prof. Zhenkun Wang](https://scholar.google.com/citations?user=r9ezy2gAAAAJ&hl=en), [Prof. Xin Yao](https://scholar.google.com/citations?hl=en&user=UUtYPl4AAAAJ), and [Prof. Ke Tang](https://scholar.google.com/citations?user=mzLHFbAAAAAJ&hl=en).
 
 My CV is here: [Zhi Zheng's Curriculum Vitae](../assets/CV_Zhi_Zheng.pdf).
 
