@@ -12,7 +12,7 @@ I am a first-year Ph.D. student from [School of Computing](https://www.comp.nus.
 
 Previously, I finished my undergraduate studies in June 2024, at the Southern University of Science and Technology, China, focusing on Neural Combinatorial Optimization and Reinforcement Learning, supervised by [Prof. Zhenkun Wang](https://scholar.google.com/citations?user=r9ezy2gAAAAJ&hl=en), [Prof. Xin Yao](https://scholar.google.com/citations?hl=en&user=UUtYPl4AAAAJ), and [Prof. Ke Tang](https://scholar.google.com/citations?user=mzLHFbAAAAAJ&hl=en).
 
-My CV is here: [Zhi Zheng's Curriculum Vitae](../assets/CV_Zhi_Zheng.pdf).
+My CV is here: [Zhi Zheng's Curriculum Vitae](https://github.com/zz1358m/zhizheng.github.io/blob/master/assets/CV_Zhi_Zheng.pdf).
 
 Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/citations?user=nxJ4qM4AAAAJ&hl=en) / [Github](https://github.com/zz1358m)
 
