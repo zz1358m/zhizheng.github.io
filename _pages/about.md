@@ -31,6 +31,6 @@ Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/
 
 ### Arxiv Preprint:
 
-* **Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design**<br>**Zhi Zheng**, Zhuoliang Xie, Zhenkun Wang, and Bryan Hooi;<br>*Arxiv preprint**, 2025. [[Paper](https://arxiv.org/abs/2501.08603) & [Code](https://github.com/zz1358m/MCTS-AHD-master/tree/main)].
+* **Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design**<br>**Zhi Zheng**, Zhuoliang Xie, Zhenkun Wang, and Bryan Hooi;<br>*Arxiv preprint*, 2025. [[Paper](https://arxiv.org/abs/2501.08603) & [Code](https://github.com/zz1358m/MCTS-AHD-master/tree/main)].
 
 \* for equal contribution
