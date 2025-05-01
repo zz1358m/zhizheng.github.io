@@ -20,6 +20,9 @@ Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/
 
 ### Accepted Conference Papers:
 
+
+* **Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design**<br>**Zhi Zheng**, Zhuoliang Xie, Zhenkun Wang, and Bryan Hooi;<br>*International Conference on Machine Learning **(ICML)***, 2025. [[Paper](https://arxiv.org/abs/2501.08603) & [Code](https://github.com/zz1358m/MCTS-AHD-master/tree/main)].
+  
 * **UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems**<br>**Zhi Zheng**, Changliang Zhou, Xialiang Tong, Mingxuan Yuan, Zhenkun Wang;<br>*Advances in Neural Information Processing Systems **(NeurIPS)***, 2024. [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:2osOgNQ5qMEC) & [Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/UDC-Large-scale-CO-master)].
 * **DPN: Decoupling Partition and Navigation for Neural Solvers of Min-max Vehicle Routing Problems**<br>**Zhi Zheng\***, Shunyu Yao\*, Zhenkun Wang, Xialiang Tong, Mingxuan Yuan, Ke Tang;<br>*International Conference on Machine Learning **(ICML)***, 2024. [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:9yKSN-GCB0IC) & [Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/DPN-minmaxVRP-master)].
 
@@ -30,7 +33,5 @@ Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/
 * **Pareto Improver: Learning Improvement Heuristics for Multi-Objective Route Planning**<br>**Zhi Zheng**\*, Shunyu Yao\*, Genghui Li, Linxi Han, and Zhenkun Wang;<br>*IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***, 2023. [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:u-x6o8ySG0sC) & [Code](https://github.com/CIAM-Group/NCO_code/tree/main/multi-objective/PI)].
 
 ### Arxiv Preprint:
-
-* **Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design**<br>**Zhi Zheng**, Zhuoliang Xie, Zhenkun Wang, and Bryan Hooi;<br>*Arxiv preprint*, 2025. [[Paper](https://arxiv.org/abs/2501.08603) & [Code](https://github.com/zz1358m/MCTS-AHD-master/tree/main)].
 
 \* for equal contribution
