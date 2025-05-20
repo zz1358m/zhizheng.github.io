@@ -34,4 +34,6 @@ Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/
 
 ### Arxiv Preprint:
 
+* **Reasoning-CV: Fine-tuning Powerful Reasoning LLMs for Knowledge-Assisted Claim Verification**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2505.12348) & [Code](https://github.com/zz1358m/Reasoning-CV)].
+
 \* for equal contribution
