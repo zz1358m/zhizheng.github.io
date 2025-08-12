@@ -37,3 +37,9 @@ Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/
 * **Reasoning-CV: Fine-tuning Powerful Reasoning LLMs for Knowledge-Assisted Claim Verification**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2505.12348) & [Code](https://github.com/zz1358m/Reasoning-CV)].
 
 \* for equal contribution
+
+## Teaching:
+
+* Teaching Assistant for CS3244, School of Computing, NUS (2025 Spring).
+
+* Teaching Assistant for CS3263, School of Computing, NUS (2025 Fall).
