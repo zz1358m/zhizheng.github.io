@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-I am a second-year Ph.D. student from [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), supervised by [Prof. Wee Sun Lee](https://www.comp.nus.edu.sg/cs/people/leews/). My research interests include LLM Reasoning, Trustworthy LLM, LLM for Application, and Neural Combinatorial Optimization. 
+I am a second-year Ph.D. student from [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), supervised by [Prof. Wee Sun Lee](https://www.comp.nus.edu.sg/cs/people/leews/). My research interests include LLM Latent Reasoning, LLM Reasoning, Trustworthy LLM, LLM for Application, and Neural Combinatorial Optimization. 
 
 Previously, I finished my undergraduate studies in June 2024, at the Southern University of Science and Technology, China, focusing on Neural Combinatorial Optimization and Reinforcement Learning, supervised by [Prof. Zhenkun Wang](https://scholar.google.com/citations?user=r9ezy2gAAAAJ&hl=en), [Prof. Xin Yao](https://scholar.google.com/citations?hl=en&user=UUtYPl4AAAAJ), and [Prof. Ke Tang](https://scholar.google.com/citations?user=mzLHFbAAAAAJ&hl=en).
 
@@ -35,6 +35,8 @@ Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/
 ### Arxiv Preprint:
 
 * **Reasoning-CV: Fine-tuning Powerful Reasoning LLMs for Knowledge-Assisted Claim Verification**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2505.12348) & [Code](https://github.com/zz1358m/Reasoning-CV)].
+
+* **SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2511.06411) & [Code](https://github.com/zz1358m/SofT-GRPO-master)].
 
 \* for equal contribution
 
