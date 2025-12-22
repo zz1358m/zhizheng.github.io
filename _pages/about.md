@@ -18,6 +18,13 @@ Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/
 
 ## Publications:
 
+### Arxiv Preprint:
+
+* **SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2511.06411) & [Code](https://github.com/zz1358m/SofT-GRPO-master)].
+
+* **Reasoning-CV: Fine-tuning Powerful Reasoning LLMs for Knowledge-Assisted Claim Verification**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2505.12348) & [Code](https://github.com/zz1358m/Reasoning-CV)].
+
+
 ### Accepted Conference Papers:
 
 
@@ -31,12 +38,6 @@ Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/
 ### Accepted Journal Articles:
 
 * **Pareto Improver: Learning Improvement Heuristics for Multi-Objective Route Planning**<br>**Zhi Zheng**\*, Shunyu Yao\*, Genghui Li, Linxi Han, and Zhenkun Wang;<br>*IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***, 2023. [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:u-x6o8ySG0sC) & [Code](https://github.com/CIAM-Group/NCO_code/tree/main/multi-objective/PI)].
-
-### Arxiv Preprint:
-
-* **Reasoning-CV: Fine-tuning Powerful Reasoning LLMs for Knowledge-Assisted Claim Verification**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2505.12348) & [Code](https://github.com/zz1358m/Reasoning-CV)].
-
-* **SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2511.06411) & [Code](https://github.com/zz1358m/SofT-GRPO-master)].
 
 \* for equal contribution
 
