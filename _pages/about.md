@@ -20,7 +20,9 @@ Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/
 
 ### Arxiv Preprint:
 
-* **SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2511.06411) & [Code](https://github.com/zz1358m/SofT-GRPO-master)].
+* **SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization**<br>**Zhi Zheng**, Yu Gu, Wei Liu, Yee Whye Teh, and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2511.06411) & [Code](https://github.com/zz1358m/SofT-GRPO-master)].
+* 
+* **Beyond Imitation: Reinforcement Learning for Active Latent Planning**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2601.21598) & [Code](https://github.com/zz1358m/ATP-Latent-master)].
 
 * **Reasoning-CV: Fine-tuning Powerful Reasoning LLMs for Knowledge-Assisted Claim Verification**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2505.12348) & [Code](https://github.com/zz1358m/Reasoning-CV)].
 
