@@ -14,7 +14,7 @@ Previously, I finished my undergraduate studies in June 2024, at the Southern Un
 
 My CV is here: [Zhi Zheng's Curriculum Vitae](https://github.com/zz1358m/zhizheng.github.io/blob/master/assets/CV_Zhi_Zheng.pdf).
 
-Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/citations?user=nxJ4qM4AAAAJ&hl=en) / [Github](https://github.com/zz1358m)
+Email: zhi.zheng@u.nus.edu/ [Google Scholar Profile](https://scholar.google.com/citations?user=nxJ4qM4AAAAJ&hl=en) / [Github](https://github.com/zz1358m)
 
 ## Selected Publications:
 
@@ -22,7 +22,7 @@ Email: zhi.zheng@u.nus.edu/ [Google Schloar Profile](https://scholar.google.com/
 
 * **SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization**<br>**Zhi Zheng**, Yu Gu, Wei Liu, Yee Whye Teh, and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2511.06411) & [Code](https://github.com/zz1358m/SofT-GRPO-master)].
   
-* **Beyond Imitation: Reinforcement Learning for Active Latent Planning**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2601.21598) & [Code](https://github.com/zz1358m/ATP-Latent-master)].
+* **Beyond Imitation: Reinforcement Learning for Active Latent Planning**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2026. [[Paper](https://arxiv.org/pdf/2601.21598) & [Code](https://github.com/zz1358m/ATP-Latent-master)].
 
 
 
