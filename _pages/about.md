@@ -20,6 +20,10 @@ Email: zhi.zheng@u.nus.edu/ [Google Scholar Profile](https://scholar.google.com/
 
 ### Arxiv Preprint:
 
+  
+* **One Token per Multimodal Evidence: Latent Memory for Resource-Constrained QA**<br>**Zhi Zheng**, Ziqiao Meng, Hao Luan, Wei Liu, and Wee Sun Lee;<br>*Arxiv*, 2026. [[Paper]([https://arxiv.org/pdf/2601.21598](https://arxiv.org/pdf/2606.10572)) & [Code](https://github.com/zz1358m/Latent-Memory-Master)].
+
+
 * **SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization**<br>**Zhi Zheng**, Yu Gu, Wei Liu, Yee Whye Teh, and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2511.06411) & [Code](https://github.com/zz1358m/SofT-GRPO-master)].
   
 * **Beyond Imitation: Reinforcement Learning for Active Latent Planning**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2026. [[Paper](https://arxiv.org/pdf/2601.21598) & [Code](https://github.com/zz1358m/ATP-Latent-master)].
