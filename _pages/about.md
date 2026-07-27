@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-I am a second-year Ph.D. candidate from [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), supervised by [Prof. Wee Sun Lee](https://www.comp.nus.edu.sg/cs/people/leews/). My research interests include LLM Latent Reasoning, LLM Reasoning, and Neural Combinatorial Optimization. 
+I am a second-year Ph.D. candidate from [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), supervised by [Prof. Wee Sun Lee](https://www.comp.nus.edu.sg/cs/people/leews/). My research interests include LLM Reasoning, Optimization, LLM Latent Reasoning, and Neural Combinatorial Optimization. 
 
 Previously, I finished my undergraduate studies in June 2024, at the Southern University of Science and Technology, China, focusing on Neural Combinatorial Optimization and Reinforcement Learning, supervised by [Prof. Zhenkun Wang](https://scholar.google.com/citations?user=r9ezy2gAAAAJ&hl=en), [Prof. Xin Yao](https://scholar.google.com/citations?hl=en&user=UUtYPl4AAAAJ), and [Prof. Ke Tang](https://scholar.google.com/citations?user=mzLHFbAAAAAJ&hl=en).
 
@@ -18,7 +18,7 @@ Email: zhi.zheng@u.nus.edu/ [Google Scholar Profile](https://scholar.google.com/
 
 ## Selected Publications:
 
-### Arxiv Preprint:
+### Arxiv Preprints:
 
   
 * **One Token per Multimodal Evidence: Latent Memory for Resource-Constrained QA**<br>**Zhi Zheng**, Ziqiao Meng, Hao Luan, Wei Liu, and Wee Sun Lee;<br>*Arxiv, ICML2026 Workshop @ Efficient Multimodal Question Answering*, 2026. [[Paper](https://arxiv.org/pdf/2606.10572) & [Code](https://github.com/zz1358m/Latent-Memory-Master)].
