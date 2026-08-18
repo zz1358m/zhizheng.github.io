@@ -34,7 +34,7 @@ Email: zhi.zheng@u.nus.edu/ [Google Scholar Profile](https://scholar.google.com/
 ### Arxiv Preprints:
 
 
-* **Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**<br>**Zhi Zheng**, Rongsheng Chen, Yunpeng Ba, Zhenkun Wang, Yee Whye Teh, and Wee Sun Lee;<br>*Arxiv on hold*, 2026. [[Paper](https://www.alphaxiv.org/pdf/2608.agentic-esopt-long-horizon-llmv1) & [Code](https://github.com/zz1358m/Agentic-ESOpt)].
+* **Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**<br>**Zhi Zheng**, Rongsheng Chen, Yunpeng Ba, Zhenkun Wang, Yee Whye Teh, and Wee Sun Lee;<br>*Arxiv on hold*, 2026. [[Project Page]([https://www.alphaxiv.org/pdf/2608.agentic-esopt-long-horizon-llmv1](https://zz1358m.github.io/Project-Agentic-ESOpt) &[Paper](https://www.alphaxiv.org/pdf/2608.agentic-esopt-long-horizon-llmv1) & [Code](https://github.com/zz1358m/Agentic-ESOpt)].
 
 
 * **One Token per Multimodal Evidence: Latent Memory for Resource-Constrained QA**<br>**Zhi Zheng**, Ziqiao Meng, Hao Luan, Wei Liu, and Wee Sun Lee;<br>*Arxiv, ICML2026 Workshop @ Efficient Multimodal Question Answering*, 2026. [[Paper](https://arxiv.org/pdf/2606.10572) & [Code](https://github.com/zz1358m/Latent-Memory-Master)].
