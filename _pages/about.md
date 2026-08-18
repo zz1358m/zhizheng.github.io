@@ -9,19 +9,19 @@ redirect_from:
 
 ---
 
-I am a third-year Ph.D. candidate from [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), supervised by [Prof. Wee Sun Lee](https://www.comp.nus.edu.sg/cs/people/leews/), and [Prof. Yee Whye Teh](https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en) from Oxford.
+I am a **third-year Ph.D. candidate** from [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), supervised by [Prof. Wee Sun Lee](https://www.comp.nus.edu.sg/cs/people/leews/), and [Prof. Yee Whye Teh](https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en) from Oxford.
 
 Previously, I finished my undergraduate studies in June 2024 at the Southern University of Science and Technology (SUSTech), China, focusing on Neural Combinatorial Optimization and Reinforcement Learning, supervised by [Prof. Zhenkun Wang](https://scholar.google.com/citations?user=r9ezy2gAAAAJ&hl=en), [Prof. Xin Yao](https://scholar.google.com/citations?hl=en&user=UUtYPl4AAAAJ), and [Prof. Ke Tang](https://scholar.google.com/citations?user=mzLHFbAAAAAJ&hl=en). I am still working with them now.
 
 ## Research Interests:
 
-My research focuses on the optimization of LLMs and neural networks, where I develop efficient and scalable methods for optimizing neural agents and harness them to solve challenging optimization problems. My research agenda is organized around three core objectives:
+My research focuses on the **optimization of LLMs and neural networks**, where I develop efficient and scalable methods for optimizing neural agents and harness them to solve challenging optimization problems. My research agenda is organized around three core objectives:
 
-Scalable Fine-tuning: Developing scalable fine-tuning methods for neural agents, including Evolutionary Strategies (ES) (e.g., [Agentic-ESOpt](https://www.alphaxiv.org/pdf/2608.agentic-esopt-long-horizon-llmv1), [Hyper-ES](https://arxiv.org/abs/2608.05541)) and Reinforcement Learning (RL) (e.g., [SofT-GRPO](https://arxiv.org/pdf/2511.06411)).
+**Scalable Fine-tuning**: Developing scalable fine-tuning methods for neural agents, including Evolutionary Strategies (ES) (e.g., [**Agentic-ESOpt**](https://www.alphaxiv.org/pdf/2608.agentic-esopt-long-horizon-llmv1), [**Hyper-ES**](https://arxiv.org/abs/2608.05541)) and Reinforcement Learning (RL) (e.g., [**SofT-GRPO**](https://arxiv.org/pdf/2511.06411)).
 
-Efficiency: Improving the efficiency of neural agents by reducing the computational and representational overhead of reasoning and memory. (e.g., [ATP-Latent](https://arxiv.org/pdf/2601.21598), [Latent Memory](https://arxiv.org/pdf/2606.10572))
+**Efficiency**: Improving the efficiency of neural agents by reducing the computational and representational overhead of reasoning and memory. (e.g., [**ATP-Latent**](https://arxiv.org/pdf/2601.21598), [**Latent Memory**](https://arxiv.org/pdf/2606.10572))
 
-Problem Solving: Leveraging neural agents to tackle challenging optimization problems via agentic test-time compute (e.g., [MCTS-AHD](https://arxiv.org/abs/2501.08603), [APEX](https://arxiv.org/abs/2605.21240)) or learning heuristics. (e.g., [UDC](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:2osOgNQ5qMEC), [DPN](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:9yKSN-GCB0IC))
+**Problem Solving**: Leveraging neural agents to tackle challenging optimization problems via agentic test-time compute (e.g., [**MCTS-AHD**](https://arxiv.org/abs/2501.08603), [**APEX**](https://arxiv.org/abs/2605.21240)) or learning heuristics. (e.g., [**UDC**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:2osOgNQ5qMEC), [**DPN**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:9yKSN-GCB0IC))
 
 I am willing to discuss the above topics via email!
 
@@ -32,6 +32,9 @@ Email: zhi.zheng@u.nus.edu/ [Google Scholar Profile](https://scholar.google.com/
 ## Selected Publications:
 
 ### Arxiv Preprints:
+
+
+* **Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**<br>**Zhi Zheng**, Rongsheng Chen, Yunpeng Ba, Zhenkun Wang, Yee Whye Teh, and Wee Sun Lee;<br>*Arxiv on hold*, 2026. [[Paper](https://www.alphaxiv.org/pdf/2608.agentic-esopt-long-horizon-llmv1) & [Code](https://github.com/zz1358m/Agentic-ESOpt)].
 
 
 * **One Token per Multimodal Evidence: Latent Memory for Resource-Constrained QA**<br>**Zhi Zheng**, Ziqiao Meng, Hao Luan, Wei Liu, and Wee Sun Lee;<br>*Arxiv, ICML2026 Workshop @ Efficient Multimodal Question Answering*, 2026. [[Paper](https://arxiv.org/pdf/2606.10572) & [Code](https://github.com/zz1358m/Latent-Memory-Master)].
