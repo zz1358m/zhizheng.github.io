@@ -17,7 +17,7 @@ Previously, I finished my undergraduate studies in June 2024 at the Southern Uni
 
 My research focuses on the **optimization of LLMs and neural networks**, where I develop efficient and scalable methods for optimizing neural agents and harness them to solve challenging optimization problems. My research agenda is organized around three core objectives:
 
-**Scalable Fine-tuning**: Developing scalable fine-tuning methods for neural agents, including Evolutionary Strategies (ES) (e.g., [**Agentic-ESOpt**](https://www.alphaxiv.org/pdf/2608.agentic-esopt-long-horizon-llmv1), [**Hyper-ES**](https://arxiv.org/abs/2608.05541)) and Reinforcement Learning (RL) (e.g., [**SofT-GRPO**](https://arxiv.org/pdf/2511.06411)).
+**Scalable Fine-tuning**: Developing scalable fine-tuning methods for neural agents, including Evolutionary Strategies (ES) (e.g., [**Agentic-ESOpt**](https://arxiv.org/abs/2608.17310), [**Hyper-ES**](https://arxiv.org/abs/2608.05541)) and Reinforcement Learning (RL) (e.g., [**SofT-GRPO**](https://arxiv.org/pdf/2511.06411)).
 
 **Efficiency**: Improving the efficiency of neural agents by reducing the computational and representational overhead of reasoning and memory. (e.g., [**ATP-Latent**](https://arxiv.org/pdf/2601.21598), [**Latent Memory**](https://arxiv.org/pdf/2606.10572))
 
@@ -34,7 +34,7 @@ Email: zhi.zheng@u.nus.edu/ [Google Scholar Profile](https://scholar.google.com/
 ### Arxiv Preprints:
 
 
-* **Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**<br>**Zhi Zheng**, Rongsheng Chen, Yunpeng Ba, Zhenkun Wang, Yee Whye Teh, and Wee Sun Lee;<br>*Arxiv on hold*, 2026. [[Project Page]([https://www.alphaxiv.org/pdf/2608.agentic-esopt-long-horizon-llmv1](https://zz1358m.github.io/Project-Agentic-ESOpt) &[Paper](https://www.alphaxiv.org/pdf/2608.agentic-esopt-long-horizon-llmv1) & [Code](https://github.com/zz1358m/Agentic-ESOpt)].
+* **Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**<br>**Zhi Zheng**, Rongsheng Chen, Yunpeng Ba, Zhenkun Wang, Yee Whye Teh, and Wee Sun Lee;<br>*Arxiv on hold*, 2026. [[Project Page]((https://zz1358m.github.io/Project-Agentic-ESOpt) &[Paper](https://arxiv.org/abs/2608.17310) & [Code](https://github.com/zz1358m/Agentic-ESOpt)].
 
 
 * **One Token per Multimodal Evidence: Latent Memory for Resource-Constrained QA**<br>**Zhi Zheng**, Ziqiao Meng, Hao Luan, Wei Liu, and Wee Sun Lee;<br>*Arxiv, ICML2026 Workshop @ Efficient Multimodal Question Answering*, 2026. [[Paper](https://arxiv.org/pdf/2606.10572) & [Code](https://github.com/zz1358m/Latent-Memory-Master)].
