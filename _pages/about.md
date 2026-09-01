@@ -27,7 +27,7 @@ I am willing to discuss the above topics via email!
 
 My CV is here: [Zhi Zheng's Curriculum Vitae](https://github.com/zz1358m/zhizheng.github.io/blob/master/assets/CV_Zhi_Zheng.pdf).
 
-Email: zhi.zheng@u.nus.edu/ [Google Scholar Profile](https://scholar.google.com/citations?user=nxJ4qM4AAAAJ&hl=en) / [Github](https://github.com/zz1358m)
+Email: zhi.zheng@u.nus.edu/ [Google Scholar Profile](https://scholar.google.com/citations?user=nxJ4qM4AAAAJ&hl=en) / [Github](https://github.com/zz1358m) / [alphaXiv](https://www.alphaxiv.org/@zhi-zheng)
 
 ## Selected Publications:
 
