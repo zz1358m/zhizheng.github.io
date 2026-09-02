@@ -17,7 +17,7 @@ Previously, I finished my undergraduate studies in June 2024 at the Southern Uni
 
 My research focuses on the **optimization of LLMs and neural networks**, where I develop efficient and scalable methods for optimizing neural agents and harness them to solve challenging optimization problems. My research agenda is organized around three core objectives:
 
-**Scalable Fine-tuning**: Developing scalable fine-tuning methods for neural agents, including Evolutionary Strategies (ES) (e.g., [**Agentic-ESOpt**](https://arxiv.org/abs/2608.17310), [**Hyper-ES**](https://arxiv.org/abs/2608.05541)) and Reinforcement Learning (RL) (e.g., [**SofT-GRPO**](https://arxiv.org/pdf/2511.06411)).
+**Scalable Fine-tuning**: Developing scalable fine-tuning methods for neural agents, including Evolutionary Strategies (ES) (e.g., [**Agentic-ESOpt**](https://arxiv.org/abs/2608.17310), [**Understanding ES**](https://arxiv.org/pdf/2608.27351), [**Hyper-ES**](https://arxiv.org/abs/2608.05541)) and Reinforcement Learning (RL) (e.g., [**SofT-GRPO**](https://arxiv.org/pdf/2511.06411)).
 
 **Efficiency**: Improving the efficiency of neural agents by reducing the computational and representational overhead of reasoning and memory. (e.g., [**ATP-Latent**](https://arxiv.org/pdf/2601.21598), [**Latent Memory**](https://arxiv.org/pdf/2606.10572))
 
