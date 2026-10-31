@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhi Zheng (郑执)"
   pronouns         : # example: "she/her"  
-  bio              : "NUS Second-Year CS(AI) Ph.D."
+  bio              : "NUS Third-Year CS(AI) Ph.D."
   location         : "Singapore"
-  employer         : "Nation University of Singapore"
+  employer         : "National University of Singapore"
   uri              : # URL
   email            : "zhi.zheng@u.nus.edu" 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/zhi-zheng-48387b322"
+  linkedin         : "zhi-zheng-48387b322"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/zhengzhi20"
+  twitter          : "zhengzhi20"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

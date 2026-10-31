@@ -27,15 +27,26 @@ I am willing to discuss the above topics via email!
 
 My CV is here: [Zhi Zheng's Curriculum Vitae](https://github.com/zz1358m/zhizheng.github.io/blob/master/assets/CV_Zhi_Zheng.pdf).
 
-Email: zhi.zheng@u.nus.edu/ [Google Scholar Profile](https://scholar.google.com/citations?user=nxJ4qM4AAAAJ&hl=en) / [Github](https://github.com/zz1358m) / [alphaXiv](https://www.alphaxiv.org/@zhi-zheng)
+Email: zhi.zheng@u.nus.edu / [Google Scholar Profile](https://scholar.google.com/citations?user=nxJ4qM4AAAAJ&hl=en) / [Github](https://github.com/zz1358m) / [alphaXiv](https://www.alphaxiv.org/@zhi-zheng)
 
 ## Selected Publications:
 
 ### Arxiv Preprints:
 
 
-* **Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**<br>**Zhi Zheng**, Rongsheng Chen, Yunpeng Ba, Zhenkun Wang, Yee Whye Teh, and Wee Sun Lee;<br>*Arxiv*, NeurIPS2026 Workshop @
-Resource-Aware Agentic AI, 2026. [[Project Page](https://zz1358m.github.io/Project-Agentic-ESOpt) & [Paper](https://arxiv.org/abs/2608.17310) & [Code](https://github.com/zz1358m/Agentic-ESOpt)].
+* **Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**<br>**Zhi Zheng**, Rongsheng Chen, Yunpeng Ba, Zhenkun Wang, Yee Whye Teh, and Wee Sun Lee;<br>*Arxiv, NeurIPS2026 Workshop @ Resource-Aware Agentic AI*, 2026. [[Project Page](https://zz1358m.github.io/Project-Agentic-ESOpt) & [Paper](https://arxiv.org/abs/2608.17310) & [Code](https://github.com/zz1358m/Agentic-ESOpt)].
+
+
+* **Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO**<br>Yunpeng Ba\*, **Zhi Zheng\***, Yue Xie, Jiaqing Li, Xialiang Tong, Tao Zhong, Mingxuan Yuan, Zhichao Lu, Xuyang Wu, and Zhenkun Wang;<br>*Arxiv*, 2026. [[Paper](https://arxiv.org/abs/2608.27351)].
+
+
+* **Hyper-ES: Effective Evolution Strategies for LLM Reasoning via Descent Direction Merging**<br>Yu Gu\*, **Zhi Zheng\***, Yunpeng Ba, Xialiang Tong, Mingxuan Yuan, and Zhenkun Wang;<br>*Arxiv*, 2026. [[Paper](https://arxiv.org/abs/2608.05541)].
+
+
+* **AIM-ZO: Activation-Informed Subspace Maintenance for Zeroth-Order LLM Fine-Tuning**<br>Yue Xie\*, **Zhi Zheng\***, Yunpeng Ba, Xuyang Wu, Xialiang Tong, Zhichao Lu, Tao Zhong, and Zhenkun Wang;<br>*Arxiv*, 2026. [[Paper](https://arxiv.org/abs/2609.35257)].
+
+
+* **GraphSkillEvo: Evolutionary Optimization of Graph-Structured Agent Skills**<br>Rui Sun\*, **Zhi Zheng\***, Zhenkun Wang, and Zhichao Lu;<br>*Arxiv*, 2026. [[Paper](https://arxiv.org/abs/2609.21749)].
 
 
 * **One Token per Multimodal Evidence: Latent Memory for Resource-Constrained QA**<br>**Zhi Zheng**, Ziqiao Meng, Hao Luan, Wei Liu, and Wee Sun Lee;<br>*Arxiv, ICML2026 Workshop @ Efficient Multimodal Question Answering*, 2026. [[Paper](https://arxiv.org/pdf/2606.10572) & [Code](https://github.com/zz1358m/Latent-Memory-Master)].
@@ -44,6 +55,9 @@ Resource-Aware Agentic AI, 2026. [[Project Page](https://zz1358m.github.io/Proje
 * **SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization**<br>**Zhi Zheng**, Yu Gu, Wei Liu, Yee Whye Teh, and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/pdf/2511.06411) & [Code](https://github.com/zz1358m/SofT-GRPO-master)].
 
 * **Beyond Imitation: Reinforcement Learning for Active Latent Planning**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2026. [[Paper](https://arxiv.org/pdf/2601.21598) & [Code](https://github.com/zz1358m/ATP-Latent-master)].
+
+
+* **Reasoning-CV: Fine-tuning Powerful Reasoning LLMs for Knowledge-Assisted Claim Verification**<br>**Zhi Zheng** and Wee Sun Lee;<br>*Arxiv*, 2025. [[Paper](https://arxiv.org/abs/2505.12348) & [Code](https://github.com/zz1358m/Reasoning-CV)].
 
 
 
@@ -55,7 +69,7 @@ Resource-Aware Agentic AI, 2026. [[Project Page](https://zz1358m.github.io/Proje
 * **UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems**<br>**Zhi Zheng**, Changliang Zhou, Xialiang Tong, Mingxuan Yuan, Zhenkun Wang;<br>*Advances in Neural Information Processing Systems **(NeurIPS)***, 2024. [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:2osOgNQ5qMEC) & [Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/UDC-Large-scale-CO-master)].
 * **DPN: Decoupling Partition and Navigation for Neural Solvers of Min-max Vehicle Routing Problems**<br>**Zhi Zheng\***, Shunyu Yao\*, Zhenkun Wang, Xialiang Tong, Mingxuan Yuan, Ke Tang;<br>*International Conference on Machine Learning **(ICML)***, 2024. [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:9yKSN-GCB0IC) & [Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/DPN-minmaxVRP-master)].
 
-* **Learning Encodings of Constructive Neural Combinatorial Optimization Needs to Regret**<br>Rui sun\*, **Zhi Zheng\***, Zhenkun Wang;<br>*38th AAAI Conference on Artificial Intelligence **(AAAI)***, 2024. [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:d1gkVwhDpl0C) & [Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)].
+* **Learning Encodings for Constructive Neural Combinatorial Optimization Needs to Regret**<br>Rui Sun\*, **Zhi Zheng\***, Zhenkun Wang;<br>*38th AAAI Conference on Artificial Intelligence **(AAAI)***, 2024. [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:d1gkVwhDpl0C) & [Code](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LCH-Regret)].
 
 ### Accepted Journal Articles:
 
