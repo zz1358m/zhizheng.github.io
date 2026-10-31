@@ -21,7 +21,7 @@ More broadly, I am interested in **LLM optimization as a whole**, including:
 
 * **Reinforcement learning** for LLM reasoning (e.g., [**SofT-GRPO**](https://arxiv.org/pdf/2511.06411)).
 * **LLM acceleration** through latent reasoning and memory, diffusion LLMs, and multi-token prediction (e.g., [**ATP-Latent**](https://arxiv.org/pdf/2601.21598), [**Latent Memory**](https://arxiv.org/pdf/2606.10572)).
-* **LLMs as optimizers** that solve challenging problems through agentic test-time search (e.g., [**MCTS-AHD**](https://arxiv.org/abs/2501.08603), [**APEX**](https://arxiv.org/abs/2605.21240), [**GraphSkillEvo**](https://arxiv.org/abs/2609.21749)), building on my earlier work on learned heuristics for combinatorial optimization (e.g., [**UDC**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:2osOgNQ5qMEC), [**DPN**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:9yKSN-GCB0IC)).
+* **LLMs as optimizers** that solve challenging problems through agentic test-time search (e.g., [**Agentic-ESOpt**](https://arxiv.org/abs/2608.17310), [**MCTS-AHD**](https://arxiv.org/abs/2501.08603), [**APEX**](https://arxiv.org/abs/2605.21240), [**GraphSkillEvo**](https://arxiv.org/abs/2609.21749)), building on my earlier work on learned heuristics for combinatorial optimization (e.g., [**UDC**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:2osOgNQ5qMEC), [**DPN**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:9yKSN-GCB0IC)).
 
 I am willing to discuss the above topics via email!
 
