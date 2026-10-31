@@ -15,13 +15,9 @@ Previously, I finished my undergraduate studies in June 2024 at the Southern Uni
 
 ## Research Interests:
 
-My research focuses on the **optimization of LLMs and neural networks**, where I develop efficient and scalable methods for optimizing neural agents and harness them to solve challenging optimization problems. My research agenda is organized around three core objectives:
+My current research focuses on the **optimization of LLMs under limited resources**: fine-tuning LLMs and LLM agents with minimal GPU memory and compute, toward on-device deployment. This includes inference-only fine-tuning with Evolution Strategies (ES) and zeroth-order methods (e.g., [**Agentic-ESOpt**](https://arxiv.org/abs/2608.17310), [**Hyper-ES**](https://arxiv.org/abs/2608.05541), [**Understanding ES**](https://arxiv.org/abs/2608.27351), [**AIM-ZO**](https://arxiv.org/abs/2609.35257)).
 
-**Scalable Fine-tuning**: Developing scalable fine-tuning methods for neural agents, including Evolutionary Strategies (ES) (e.g., [**Agentic-ESOpt**](https://arxiv.org/abs/2608.17310), [**Understanding ES**](https://arxiv.org/pdf/2608.27351), [**Hyper-ES**](https://arxiv.org/abs/2608.05541)) and Reinforcement Learning (RL) (e.g., [**SofT-GRPO**](https://arxiv.org/pdf/2511.06411)).
-
-**Efficiency**: Improving the efficiency of neural agents by reducing the computational and representational overhead of reasoning and memory. (e.g., [**ATP-Latent**](https://arxiv.org/pdf/2601.21598), [**Latent Memory**](https://arxiv.org/pdf/2606.10572))
-
-**Problem Solving**: Leveraging neural agents to tackle challenging optimization problems via agentic test-time compute (e.g., [**MCTS-AHD**](https://arxiv.org/abs/2501.08603), [**APEX**](https://arxiv.org/abs/2605.21240)) or learning heuristics. (e.g., [**UDC**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:2osOgNQ5qMEC), [**DPN**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:9yKSN-GCB0IC))
+More broadly, I am interested in **LLM optimization as a whole**: reinforcement learning for LLM reasoning (e.g., [**SofT-GRPO**](https://arxiv.org/pdf/2511.06411)), latent reasoning and memory (e.g., [**ATP-Latent**](https://arxiv.org/pdf/2601.21598), [**Latent Memory**](https://arxiv.org/pdf/2606.10572)), and LLMs as optimizers that solve challenging problems through agentic test-time search (e.g., [**MCTS-AHD**](https://arxiv.org/abs/2501.08603), [**APEX**](https://arxiv.org/abs/2605.21240), [**GraphSkillEvo**](https://arxiv.org/abs/2609.21749)), building on my earlier work on learned heuristics for combinatorial optimization (e.g., [**UDC**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:2osOgNQ5qMEC), [**DPN**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:9yKSN-GCB0IC)).
 
 I am willing to discuss the above topics via email!
 
