@@ -80,6 +80,6 @@ I am willing to discuss the above topics via email!
 * **CS3263: Foundations of Artificial Intelligence**, NUS, Fall 2025. Teaching Assistant. Led tutorial sessions and graded course projects.
 * **CS3244: Machine Learning**, NUS, Spring 2025. Teaching Assistant. Led tutorial sessions and graded course projects.
 
-## Hobbies
+## Besides Research
 
-Goalkeeper, Guitar.
+Goalkeeper, Guitar, Street Fighter 6.
