@@ -82,4 +82,4 @@ I am willing to discuss the above topics via email!
 
 ## Hobbies
 
-Goalkeeper, Guitar, 罗大佑.
+Goalkeeper, Guitar.
