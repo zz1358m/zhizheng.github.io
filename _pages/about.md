@@ -79,3 +79,9 @@ I am willing to discuss the above topics via email!
 
 * **CS3263: Foundations of Artificial Intelligence**, NUS, Fall 2025. Teaching Assistant. Led tutorial sessions and graded course projects.
 * **CS3244: Machine Learning**, NUS, Spring 2025. Teaching Assistant. Led tutorial sessions and graded course projects.
+
+## Beyond Research
+
+* **Goalkeeper.** The one job where I am happy to see zero progress on the other side's objective.
+* **Guitar.** Still in the fine-tuning stage; the neighbours provide the reward signal.
+* **Lo Ta-yu (罗大佑).** On repeat while the experiments run.
