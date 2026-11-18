@@ -13,7 +13,9 @@ I am a **third-year Ph.D. candidate** from [School of Computing](https://www.com
 
 Previously, I finished my undergraduate studies in June 2024 at the Southern University of Science and Technology (SUSTech), China, focusing on Neural Combinatorial Optimization and Reinforcement Learning, supervised by [Prof. Zhenkun Wang](https://scholar.google.com/citations?user=r9ezy2gAAAAJ&hl=en), [Prof. Xin Yao](https://scholar.google.com/citations?hl=en&user=UUtYPl4AAAAJ), and [Prof. Ke Tang](https://scholar.google.com/citations?user=mzLHFbAAAAAJ&hl=en). I am still working with them now.
 
-**[Curriculum Vitae (PDF)](https://zz1358m.github.io/zhizheng.github.io/assets/CV_Zhi_Zheng.pdf)** / Email: zhi.zheng@u.nus.edu / [Google Scholar](https://scholar.google.com/citations?user=nxJ4qM4AAAAJ&hl=en) / [GitHub](https://github.com/zz1358m) / [alphaXiv](https://www.alphaxiv.org/@zhi-zheng) / [ORCID](https://orcid.org/0009-0005-8785-8177)
+**My CV is here: [Zhi Zheng's Curriculum Vitae (PDF)](https://zz1358m.github.io/zhizheng.github.io/assets/CV_Zhi_Zheng.pdf)** (updated November 2026).
+
+Email: zhi.zheng@u.nus.edu / [Google Scholar](https://scholar.google.com/citations?user=nxJ4qM4AAAAJ&hl=en) / [GitHub](https://github.com/zz1358m) / [alphaXiv](https://www.alphaxiv.org/@zhi-zheng) / [ORCID](https://orcid.org/0009-0005-8785-8177)
 
 ## Research Overview
 
