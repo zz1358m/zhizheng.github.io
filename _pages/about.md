@@ -73,44 +73,7 @@ I am willing to discuss the above topics via email!
 
 * **\[c.7\]** **Zhi Zheng**\*, Shunyu Yao\*, Genghui Li, Linxi Han, Zhenkun Wang†. *Pareto Improver: Learning Improvement Heuristics for Multi-Objective Route Planning.* **IEEE Transactions on Intelligent Transportation Systems**, 25(1):1033–1043, 2024. [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nxJ4qM4AAAAJ&citation_for_view=nxJ4qM4AAAAJ:u-x6o8ySG0sC) & [Code](https://github.com/CIAM-Group/NCO_code/tree/main/multi-objective/PI)].
 
-## Research Mentoring
-
-Students I have mentored on research projects, in collaboration with Zhenkun Wang's group at SUSTech.
-
-* **Yunpeng Ba** (SUSTech). Evolution strategies for LLM reasoning. Papers: \[p.5\] as first author, \[p.3\], \[p.6\], \[p.7\].
-* **Yue Xie** (SUSTech). Zeroth-order LLM fine-tuning. Papers: \[p.3\] as first author, \[p.5\].
-* **Yu Gu** (Nanjing University; intern at SUSTech). Descent-direction merging and continual learning with ES. Papers: \[p.7\] as first author, \[p.11\].
-* **Rui Sun** (SUSTech; M.S. at City University of Hong Kong). Neural combinatorial optimization; evolutionary optimization of agent skills. Papers: \[c.6\] and \[p.4\] as first author.
-* **Rongsheng Chen** (SUSTech). ES fine-tuning of long-horizon agents. Papers: \[p.6\], \[p.1\].
-* **Jiaqing Li** (Harbin Institute of Technology, Weihai). Search-space compression for ES. Paper: \[p.5\].
-
-## Honors & Awards
-
-* NUS Research Scholarship, 2024 – Present.
-* Outstanding Graduation Thesis, SUSTech, 2024.
-* Outstanding Graduate, SUSTech, 2024.
-
-## Invited Talks
-
-* **Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements.** Southern University of Science and Technology. Host: Zhenkun Wang. 2026.
-* **Recent Advances in LLM-Based Automatic Heuristic Design.** Dalian University of Technology. Host: Yaqing Hou. 02/2026. [[Video](https://www.bilibili.com/video/BV1BjcMzqE7R/)].
-* **Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design.** NICE Student Seminar (online). Organizer: Handing Wang, Xidian University. 06/2025. [[Video](https://www.bilibili.com/video/BV1Ck7azREzp/)].
-
 ## Teaching
 
 * **CS3263: Foundations of Artificial Intelligence**, NUS, Fall 2025. Teaching Assistant. Led tutorial sessions and graded course projects.
 * **CS3244: Machine Learning**, NUS, Spring 2025. Teaching Assistant. Led tutorial sessions and graded course projects.
-
-## Professional Service
-
-* Conference reviewer: NeurIPS, ICML, ICLR (2023 – Present).
-* Journal reviewer: IEEE Transactions journals.
-
-## Open-Source Software
-
-(GitHub stars as of 11/2026.)
-
-* [**MCTS-AHD**](https://github.com/zz1358m/MCTS-AHD-master): LLM-based automatic heuristic design with Monte Carlo tree search (92 stars).
-* [**Agentic ESOpt**](https://github.com/zz1358m/Agentic-ESOpt): full-parameter ES fine-tuning of long-horizon LLM agents (87 stars).
-* [**SofT-GRPO**](https://github.com/zz1358m/SofT-GRPO-master): reinforcement learning for soft-thinking LLM reasoning (53 stars).
-* Contributor to [**CIAM-Group/NCO_code**](https://github.com/CIAM-Group/NCO_code): UDC, DPN, LCH-Regret, and Pareto Improver (100 stars).
